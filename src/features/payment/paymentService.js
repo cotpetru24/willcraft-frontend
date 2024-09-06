@@ -1,6 +1,6 @@
 import axios from 'axios';
-const API_PAYMENT_INTENT_URL = '/api/payments/create-payment-intent';
-const API_PAYMENT_URL = '/api/payments';
+const API_PAYMENT_INTENT_URL = 'https://willcraftbackend-o6fk58iq.b4a.run/api/payments/create-payment-intent';
+const API_PAYMENT_URL = 'https://willcraftbackend-o6fk58iq.b4a.run/api/payments';
 
 
 export const createPaymentIntent = async (products, token) => {

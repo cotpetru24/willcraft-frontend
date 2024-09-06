@@ -1,6 +1,6 @@
 import axios from "axios";
-const API_URL_ALL = '/api/reviews/';
-const API_URL = '/api/reviews/latest';
+const API_URL_ALL = 'https://willcraftbackend-o6fk58iq.b4a.run/api/reviews/';
+const API_URL = 'https://willcraftbackend-o6fk58iq.b4a.run/api/reviews/latest';
 
 
 export const createReview = async (reviewData, token) => {

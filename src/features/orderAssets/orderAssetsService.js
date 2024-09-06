@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = '/api/assets/'
+const API_URL = 'https://willcraftbackend-o6fk58iq.b4a.run/api/assets/'
 
 
 export const updateAsset = async (assetData, token) => {

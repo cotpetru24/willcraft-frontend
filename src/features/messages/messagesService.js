@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = '/api/messages/';
+const API_URL = 'https://willcraftbackend-o6fk58iq.b4a.run/api/messages/';
 
 
 export const createMessage = async (messageData,) => {

@@ -1,5 +1,5 @@
 import axios from 'axios';
-const API_ORDER_URL = '/api/orders/';
+const API_ORDER_URL = 'https://willcraftbackend-o6fk58iq.b4a.run/api/orders/';
 
 
 // Function to create a new order

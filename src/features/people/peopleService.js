@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = '/api/people/';
+const API_URL = 'https://willcraftbackend-o6fk58iq.b4a.run/api/people/';
 
 
 export const createPerson = async (personData, token) => {

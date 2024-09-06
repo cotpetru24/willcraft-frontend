@@ -1,6 +1,6 @@
 import axios from 'axios';
-const API_URL = '/api/users/';
-const API_URL_UPDATE_USER_DETAILS = '/api/users/updateUserDetails/';
+const API_URL = 'https://willcraftbackend-o6fk58iq.b4a.run/api/users/';
+const API_URL_UPDATE_USER_DETAILS = 'https://willcraftbackend-o6fk58iq.b4a.run/api/users/updateUserDetails/';
 
 
 const register = async (userData) => {
