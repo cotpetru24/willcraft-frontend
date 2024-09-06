@@ -1,7 +1,7 @@
 {
   "name": "frontend",
   "version": "0.1.0",
-  "proxy": "http://localhost:8000",
+  "proxy": "https://willcraftbackend-o6fk58iq.b4a.run",
   "private": true,
   "homepage": ".",
   "dependencies": {
